@@ -19,7 +19,7 @@ const UpdateForm=()=>{
     }
 
     const getEmpData=async()=>{
-    //   try {
+    ///   try {
     //     const data=await axios.get(`http://localhost:3002/employees/${params.empid}`)
     //     setemp(...data)
     //     console.log(data)
